@@ -2,6 +2,10 @@
 
 This project implements an age and gender prediction system using a Convolutional Neural Network (CNN). The model is served using a Flask web server and can be accessed from a website to display predictions in real time.
 
+## Dateset
+
+[UTKFace Dataset](https://www.kaggle.com/datasets/jangedoo/utkface-new)
+
 ## Features
 
 - **CNN-Based Prediction**: Utilizes a deep learning model to predict both age and gender from input images.
