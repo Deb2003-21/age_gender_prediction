@@ -88,7 +88,7 @@ age-gender-prediction/
 
 - Python 3.x
 - Flask
-- TensorFlow / Keras or PyTorch (depending on your implementation)
+- TensorFlow 
 - OpenCV, NumPy, and other standard libraries
 
 ## Acknowledgements
