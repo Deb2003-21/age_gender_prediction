@@ -91,8 +91,3 @@ age-gender-prediction/
 
 - Pre-trained models and datasets for age and gender prediction
 - Flask documentation
-- Front-end libraries (if any)
-
----
-
-Feel free to customize this README for your specific implementation and add further instructions as needed!
