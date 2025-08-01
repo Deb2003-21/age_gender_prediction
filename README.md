@@ -28,7 +28,6 @@ This project implements an age and gender prediction system using a Convolutiona
    - The frontend sends the image to the Flask server and displays the predicted age and gender on the page.
 
 ## Images
-<img width="1012" height="723" alt="Screenshot 2025-08-01 123905" src="https://github.com/user-attachments/assets/17e93c8f-240f-46e5-be08-a82268483e45" />
 <img width="874" height="874" alt="Screenshot 2025-08-01 124019" src="https://github.com/user-attachments/assets/7c0f1bd8-2862-4a78-8837-359d36ebe1ea" />
 
 
